@@ -1,7 +1,7 @@
-## Cura plugin for Machinekit and the UNI-PRINT-3D
+## Cura plugin for Machinekit and the Turnigy Fabrikator Mini
 This plugin enables to use Cura with Machinekit and velocity
 extrusion. Furthermore, it also adds a machine configuration for the
-[UNI-PRINT-3D 3d printer](https://github.com/thecooltool/UNI-PRINT-3D).
+[Fabrikator Mini / TinyBoy 3D printer](https://github.com/HKCOTA/TinyBoy).
 For more details please take a look at [my blog post](http://machinekoder.com/?p=9).
 
 ### Install
@@ -16,8 +16,8 @@ On **Windows** please copy the corresponding files to your Cura
 installation:
 
 ```
-uni_print_3d.def.json -> <cura_path>/resources/definitions/
-uni_print_3d_platform.stl <cura_path>/resources/meshes/
+fabrikator_mini.def.json -> <cura_path>/resources/definitions/
+fabrikator_mini_platform.stl <cura_path>/resources/meshes/
 NGCWriter -> <cura_path>/plugins/
 ```
 

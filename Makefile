@@ -1,4 +1,4 @@
-PRINTER_NAME = uni_print_3d
+PRINTER_NAME = fabrikator_mini
 CURA_PATH = /opt/cura
 
 install:
